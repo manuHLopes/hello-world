@@ -1,3 +1,2 @@
 # hello-world
-Repositório para postar atividades realizadas durante o curso de Engenharia da Computação do CIn (UFPE).
-E também durante cursos livres aleaórios.
+Repositório para postar a resolução das listas de exercícios realizadas durante os cursos de Engenharia da Computação e Análise e Desenvolvimento de Sistemas.
